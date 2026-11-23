@@ -1,0 +1,13 @@
+{
+  "name": "talentzy-auth",
+  "version": "1.1.0",
+  "description": "Talentzy Auth License and HWID Server",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.19.2"
+  }
+}
